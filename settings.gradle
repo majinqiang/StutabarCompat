@@ -1,1 +1,1 @@
-include ':app', ':testphoto'
+include ':app', ':testphoto', ':pagestatu', ':vrayviewstatu', ':loadingpage'
